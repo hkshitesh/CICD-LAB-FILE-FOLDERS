@@ -7,8 +7,10 @@
 ## LINK
 [Click Here To See!](https://blog.usejournal.com/how-to-make-a-basic-ci-cd-pipeline-using-jenkins-4ff2cf66078e)
 
-### Blog is published on Noteworthy - The Journal Blog
+
+## Blog is published on Noteworthy - The Journal Blog
 **PLEASE LIKE, COMMENT AND SHARE !!!**
+
 
 
 ###      THANK YOU  :blush: 
