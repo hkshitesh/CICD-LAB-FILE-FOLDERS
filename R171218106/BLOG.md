@@ -5,7 +5,8 @@
 ### All things will be done under one Jenkins Pipeline!
 
 ## LINK
-## Blog is published on Noteworthy - The Journal Blog
+[click here to see](https://blog.usejournal.com/how-to-make-a-basic-ci-cd-pipeline-using-jenkins-4ff2cf66078e)
+
+### Blog is published on Noteworthy - The Journal Blog
 **PLEASE LIKE, COMMENT AND SHARE**
 
-[click here to see](https://blog.usejournal.com/how-to-make-a-basic-ci-cd-pipeline-using-jenkins-4ff2cf66078e)
