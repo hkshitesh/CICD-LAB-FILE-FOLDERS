@@ -1,5 +1,4 @@
-# Continuous Integration and Continuous Deployment
-<p align="center"> LAB FILE </p>
+# Lab File: Continuous Integration and Continuous Deployment
 
 | [Akash Saini](https://github.com/akash2237778) |
 |----|
@@ -23,7 +22,7 @@
  - [Jenkins integration with GitHub and Maven](Experiment-03.md)
  - [Static Code analysis using SonarQube](Experiment-04.md)
  - [Jenkins Integration with SonarQube](Experiment-05.md)
- - Create a pipeline using JenkinsFile
+ - [Create a pipeline using JenkinsFile](Experiment-05.md)
  - Create a pipeline using BlueOcean Plugin
  - Implement Master/Slave architecture in Jenkins
  - Uploading Artifacts on Nexus Server using CLI
