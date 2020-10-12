@@ -4,7 +4,6 @@
 
 ### Installing Jenkins
  - Install Jenkins using `sudo apt install jenkins`
-
 ![Screenshot from 2020-10-04 02-31-11](https://user-images.githubusercontent.com/46739435/95001692-ffad5300-05e9-11eb-9845-0a1293ed5efb.png)
 
 
