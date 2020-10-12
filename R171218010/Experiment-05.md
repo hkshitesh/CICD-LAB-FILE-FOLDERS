@@ -1,4 +1,4 @@
-# Experiment 6: Jenkins Integration with SonarQube
+# Experiment 5: Jenkins Integration with SonarQube
 
 ## Steps Performed
 
