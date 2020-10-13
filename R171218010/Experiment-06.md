@@ -1,4 +1,4 @@
-# Experiment 5: Create a pipeline using JenkinsFile
+# Experiment 6: Create a pipeline using JenkinsFile
 
 ## Steps Performed
 

@@ -22,8 +22,8 @@
  - [Jenkins integration with GitHub and Maven](Experiment-03.md)
  - [Static Code analysis using SonarQube](Experiment-04.md)
  - [Jenkins Integration with SonarQube](Experiment-05.md)
- - [Create a pipeline using JenkinsFile](Experiment-05.md)
- - Create a pipeline using BlueOcean Plugin
- - Implement Master/Slave architecture in Jenkins
- - Uploading Artifacts on Nexus Server using CLI
- - Jenkins Integration with Jenkins
+ - [Create a pipeline using JenkinsFile](Experiment-06.md)
+ - [Create a pipeline using BlueOcean Plugin](Experiment-07.md)
+ - [Implement Master/Slave architecture in Jenkins](Experiment-08.md)
+ - [Uploading Artifacts on Nexus Server using CLI](Experiment-09.md)
+ - [Jenkins Integration with Jenkins](Experiment-10.md)
