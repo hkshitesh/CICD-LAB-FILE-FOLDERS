@@ -15,3 +15,5 @@
  8. [Implement Master/Slave architecture in Jenkins](Experiment8_Hridyanshu.docx)
  9. [Uploading Artifacts on Nexus Server using CLI](Experiment9_Hridyanshu.docx)
  10. [Jenkins Integration with Jenkins](Experiment10_Hridyanshu.docx)
+ 11. [Creation of Virtual Machine in Virtual Box using Vagrant](Experiment11_Hridyanshu.docx)
+ 12. [Creation of Virtual Machine in Virtual Box using Vagrant](Experiment12_Hridyanshu.docx)
