@@ -18,3 +18,4 @@
  11. [Creation of Virtual Machine in Virtual Box using Vagrant](Experiment11_Hridyanshu.docx)
  12. [Getting Started with Docker](Experiment12_Hridyanshu.docx)
  13. [Getting familiar with Docker commands](Experiment13_Hridyanshu.docx)
+ 13. [Creting a docker image using Dockerfile and pushing it to Docker Hub](Experiment14_Hridyanshu.docx)
