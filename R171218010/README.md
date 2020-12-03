@@ -27,3 +27,7 @@
  - [Implement Master/Slave architecture in Jenkins](Experiment-08.md)
  - [Uploading Artifacts on Nexus Server using CLI](Experiment-09.md)
  - [Jenkins Integration with Jenkins](Experiment-10.md)
+ - [Vagrant](Experiment-11.md)
+ - [How to Install Docker?](Experiment-12.md)
+ - [Docker basic commands](Experiment-13.md)
+
