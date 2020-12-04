@@ -20,4 +20,4 @@
  13. [Getting familiar with Docker commands](Experiment13_Hridyanshu.docx)
  13. [Creating a docker image using Dockerfile and pushing it to Docker Hub](Experiment14_Hridyanshu.docx)
  
- ### [Final Lab Assessment](FinalLabAssessment_Hridyanshu.docx)
+ ### [Final Lab Assessment](FinalLabAssesment_Hridyanshu.docx)
